@@ -1,0 +1,5 @@
+# h2 활성화
+spring:
+  h2:
+    console:
+      enabled: true
